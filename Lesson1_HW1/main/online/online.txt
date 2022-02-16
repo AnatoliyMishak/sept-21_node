@@ -1,0 +1,4 @@
+
+NAME: Vasya; 
+AGE: 32; 
+CITY: Zazhopinsk
